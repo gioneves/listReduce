@@ -4,7 +4,7 @@ Title: Faster and easy package to compare columns of multiple dataframes
 Version: 0.1.0
 Author: Giovani Neves
 Maintainer: The package maintainer <gioneves@aluni.usp.br>
-Description: For more details contact the mantainer.
+Description: reduceList function was written in base R, therefore, much faster and simpler to use compared to traditional packages. It always returns the common columns of the databases within the list.
 License: GPL (>=3)
 Encoding: UTF-8
 LazyData: true

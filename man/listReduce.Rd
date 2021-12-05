@@ -4,7 +4,7 @@
 \alias{listReduce}
 \title{Compare common columns}
 \usage{
-reduceList(mylist)
+listReduce(mylist)
 }
 \arguments{
 \item{mylist}{a list}
@@ -21,5 +21,7 @@ df_1 = data.frame(x = 1:2, y = 3:4, z = 5:6),
 df_2 = data.frame(x = 7:8, y = 9:10, z = 11:12),
 df_3 = data.frame(x = 13:14, j = 15:16, z = 17:18)
 )
+
+listReduce(mylist = list1)
 
 }
