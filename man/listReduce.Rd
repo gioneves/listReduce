@@ -13,7 +13,7 @@ listReduce(mylist)
 Compare and returns commom columns of the datasets within a list, faster and easy.
 }
 \details{
-reduceList function was written in base R, therefore, much faster and simpler to use compared to traditional packages. It always returns the common columns of the databases within the list.
+listReduce function was written in base R, therefore, much faster and simpler to use compared to traditional packages. It always returns the common columns of the databases within the list.
 }
 \examples{
 list1 <- list(
